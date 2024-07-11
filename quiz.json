@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Python with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is Python?",
+      "answers": ["Language", "Module", "Library"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is 'def'?",
+      "answers": ["Func", "Class", "Var"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is 'list'?",
+      "answers": ["Array", "Dict", "Set"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'None'?",
+      "answers": ["Null", "Zero", "False"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'for'?",
+      "answers": ["Loop", "Cond.", "Var"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'if'?",
+      "answers": ["Cond.", "Loop", "Var"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'import'?",
+      "answers": ["Include", "Export", "Define"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'print'?",
+      "answers": ["Output", "Input", "Error"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'int'?",
+      "answers": ["Number", "String", "Bool"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'str'?",
+      "answers": ["String", "Number", "Bool"],
       "correctAnswerIndex": 0
     }
   ]
